@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name ArduProMiniTKB)(type Legacy)(uri /home/martin/KICAD/LIBS/ArduProMini/ArduProMiniTKB.mod)(options "")(descr ""))
+  (lib (name w_conn_misc)(type KiCad)(uri "$(KIPRJMOD)/libs/mod_conn_misc/w_conn_misc.pretty")(options "")(descr ""))
+  (lib (name w_conn_kk100)(type KiCad)(uri "$(KIPRJMOD)/libs/mod_conn_kk100/w_conn_kk100.pretty")(options "")(descr ""))
+  (lib (name w_conn_mkds)(type KiCad)(uri "$(KIPRJMOD)/libs/mod_conn_mkds/w_conn_mkds.pretty")(options "")(descr ""))
+)
