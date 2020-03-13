@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name soldador-rescue)(type Legacy)(uri ${KIPRJMOD}/soldador-rescue.lib)(options "")(descr ""))
+  (lib (name w_connectors)(type Legacy)(uri /home/martin/KICAD/LIBS/lib_w_connectors/w_connectors.lib)(options "")(descr ""))
+  (lib (name w_device)(type Legacy)(uri /home/martin/KICAD/LIBS/lib_w_device/w_device.lib)(options "")(descr ""))
+  (lib (name freetronics_schematic)(type Legacy)(uri ${KIPRJMOD}/libs/freetronics_schematic.lib)(options "")(descr ""))
+  (lib (name ArduProMiniTKB)(type Legacy)(uri ${KIPRJMOD}/libs/ArduProMiniTKB.lib)(options "")(descr ""))
+)

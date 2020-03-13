@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L soldador-rescue:IRF540N-soldador-rescue Q1
+L soldador-rescue:IRF540N Q1
 U 1 1 5966CB0D
 P 1650 3850
 F 0 "Q1" H 1900 3925 50  0000 L CNN
@@ -69,7 +69,7 @@ F 3 "" H 1900 1900 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L soldador-rescue:CONN_01X02-soldador-rescue P1
+L soldador-rescue:CONN_01X02 P1
 U 1 1 5966CC9D
 P 1000 1100
 F 0 "P1" H 1000 1250 50  0000 C CNN
@@ -80,7 +80,7 @@ F 3 "" H 1000 1100 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L soldador-rescue:LM7805CT-soldador-rescue U1
+L soldador-rescue:LM7805CT U1
 U 1 1 5966D009
 P 3750 1100
 F 0 "U1" H 3550 1300 50  0000 C CNN
@@ -91,7 +91,7 @@ F 3 "" H 3750 1100 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L soldador-rescue:CP-soldador-rescue C2
+L soldador-rescue:CP C2
 U 1 1 5966D0F4
 P 2950 1450
 F 0 "C2" H 2975 1550 50  0000 L CNN
@@ -102,7 +102,7 @@ F 3 "" H 2950 1450 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L soldador-rescue:CP-soldador-rescue C3
+L soldador-rescue:CP C3
 U 1 1 5966D15B
 P 4500 1350
 F 0 "C3" H 4525 1450 50  0000 L CNN
@@ -113,7 +113,7 @@ F 3 "" H 4500 1350 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L soldador-rescue:C-soldador-rescue C1
+L soldador-rescue:C C1
 U 1 1 5966D1A8
 P 2650 1450
 F 0 "C1" H 2675 1550 50  0000 L CNN
@@ -247,7 +247,7 @@ Wire Wire Line
 	2250 1600 2250 1650
 Connection ~ 2150 1600
 $Comp
-L soldador-rescue:CONN_01X02-soldador-rescue P2
+L soldador-rescue:CONN_01X02 P2
 U 1 1 5966D75A
 P 1950 3300
 F 0 "P2" H 1950 3450 50  0000 C CNN
@@ -277,7 +277,7 @@ Wire Wire Line
 Text Label 1750 3000 0    60   ~ 0
 24V
 $Comp
-L soldador-rescue:R-soldador-rescue R2
+L soldador-rescue:R R2
 U 1 1 5966DA49
 P 1200 3900
 F 0 "R2" V 1280 3900 50  0000 C CNN
@@ -288,7 +288,7 @@ F 3 "" H 1200 3900 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L soldador-rescue:R-soldador-rescue R1
+L soldador-rescue:R R1
 U 1 1 5966DA90
 P 950 4200
 F 0 "R1" V 1030 4200 50  0000 C CNN
@@ -321,7 +321,7 @@ Connection ~ 950  3900
 Text Label 700  3900 0    60   ~ 0
 PWM
 $Comp
-L soldador-rescue:LM358N-soldador-rescue U2
+L soldador-rescue:LM358N U2
 U 1 1 5966DCB9
 P 7350 1900
 F 0 "U2" H 7300 2100 50  0000 L CNN
@@ -332,7 +332,7 @@ F 3 "" H 7350 1900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L soldador-rescue:CONN_01X02-soldador-rescue P3
+L soldador-rescue:CONN_01X02 P3
 U 1 1 5966DD9E
 P 8550 2600
 F 0 "P3" H 8550 2750 50  0000 C CNN
@@ -343,7 +343,7 @@ F 3 "" H 8550 2600 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L soldador-rescue:BC547-soldador-rescue Q2
+L soldador-rescue:BC547 Q2
 U 1 1 5966DE0F
 P 8250 1900
 F 0 "Q2" H 8450 1975 50  0000 L CNN
@@ -354,7 +354,7 @@ F 3 "" H 8250 1900 50  0000 L CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L soldador-rescue:R-soldador-rescue R7
+L soldador-rescue:R R7
 U 1 1 5966DE87
 P 8350 3050
 F 0 "R7" V 8430 3050 50  0000 C CNN
@@ -419,7 +419,7 @@ Wire Wire Line
 Wire Wire Line
 	5850 1800 6350 1800
 $Comp
-L soldador-rescue:R-soldador-rescue R5
+L soldador-rescue:R R5
 U 1 1 5966E1D7
 P 6350 1550
 F 0 "R5" V 6430 1550 50  0000 C CNN
@@ -430,7 +430,7 @@ F 3 "" H 6350 1550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L soldador-rescue:R-soldador-rescue R6
+L soldador-rescue:R R6
 U 1 1 5966E242
 P 6350 2200
 F 0 "R6" V 6430 2200 50  0000 C CNN
@@ -441,7 +441,7 @@ F 3 "" H 6350 2200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L soldador-rescue:C-soldador-rescue C4
+L soldador-rescue:C C4
 U 1 1 5966E2B8
 P 5850 2200
 F 0 "C4" H 5875 2300 50  0000 L CNN
@@ -494,7 +494,7 @@ Wire Wire Line
 Wire Wire Line
 	6350 2550 6350 2350
 $Comp
-L soldador-rescue:POT-soldador-rescue RV2
+L soldador-rescue:POT RV2
 U 1 1 5966E692
 P 6350 1100
 F 0 "RV2" H 6350 1020 50  0000 C CNN
@@ -579,7 +579,7 @@ Wire Wire Line
 Text Label 6100 4750 0    60   ~ 0
 AD0
 $Comp
-L soldador-rescue:CONN_01X14-soldador-rescue P4
+L soldador-rescue:CONN_01X14 P4
 U 1 1 5966FBCB
 P 9600 4700
 F 0 "P4" H 9600 5450 50  0000 C CNN
@@ -671,7 +671,7 @@ $EndComp
 Wire Wire Line
 	8050 4050 8050 4450
 $Comp
-L soldador-rescue:POT-soldador-rescue RV3
+L soldador-rescue:POT RV3
 U 1 1 5967232B
 P 7750 4250
 F 0 "RV3" H 7750 4170 50  0000 C CNN
@@ -722,7 +722,7 @@ $EndComp
 Wire Wire Line
 	8800 3750 8800 4150
 $Comp
-L soldador-rescue:LED-soldador-rescue D1
+L soldador-rescue:LED D1
 U 1 1 59672B86
 P 1300 6400
 F 0 "D1" H 1300 6500 50  0000 C CNN
@@ -733,7 +733,7 @@ F 3 "" H 1300 6400 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L soldador-rescue:LED-soldador-rescue D2
+L soldador-rescue:LED D2
 U 1 1 59672C73
 P 1800 6400
 F 0 "D2" H 1800 6500 50  0000 C CNN
@@ -744,7 +744,7 @@ F 3 "" H 1800 6400 50  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L soldador-rescue:R-soldador-rescue R3
+L soldador-rescue:R R3
 U 1 1 59672CD4
 P 1300 5900
 F 0 "R3" V 1380 5900 50  0000 C CNN
@@ -755,7 +755,7 @@ F 3 "" H 1300 5900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L soldador-rescue:R-soldador-rescue R4
+L soldador-rescue:R R4
 U 1 1 59672D31
 P 1800 5900
 F 0 "R4" V 1880 5900 50  0000 C CNN
@@ -816,7 +816,7 @@ LED_1
 Text Label 6100 4950 0    60   ~ 0
 LED_2
 $Comp
-L soldador-rescue:POT-soldador-rescue RV1
+L soldador-rescue:POT RV1
 U 1 1 5967379F
 P 2850 2900
 F 0 "RV1" H 2850 2820 50  0000 C CNN
